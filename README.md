@@ -1,6 +1,7 @@
 # MoteControl
 
-### Python Flask web app for controlling Pimoroni Mote
+### Python Flask web app for controlling [Pimoroni] (https://shop.pimoroni.com/products/mote) Mote
+
 
 ![alt tag](https://raw.githubusercontent.com/topshed/MoteControl/master/mote.png)
 
